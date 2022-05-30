@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8023277078",
+    "project_id": "wethepeople-3cad6",
+    "storage_bucket": "wethepeople-3cad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8023277078:android:f96fcf5ace3102fcdbff37",
+        "android_client_info": {
+          "package_name": "com.kum.we_the_people_university"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8023277078-jtnnc80akmngfo94uo00uc0f5d24bccq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf_noHn01EcrlQITzd1NlkM5QrJDmnfto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8023277078-jtnnc80akmngfo94uo00uc0f5d24bccq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
